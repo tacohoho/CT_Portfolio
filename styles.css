@@ -3,15 +3,16 @@
     width: 200px;
 }
 
-.hobby-img {
-    width: 200px;
-}
-
 .center-text {
     text-align: center;
 }
 
 .hobby-img {
+    width: 200px;
     padding-right: 25px;
     padding-left: 25px;
+}
+
+body {
+    background-color: #F5F5DC;
 }
